@@ -6,8 +6,8 @@ We interpolate the missing data and the data which is too different from neighbo
 To smooth the curve we use mean of 7 values
 ## Graph
 Showing the graph and the comparison between the smooth and basic curve
-##Problems faced
-None i have some experience in ml 
+## Problems faced
+None as i have some experience in ml 
 
 
 
